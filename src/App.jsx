@@ -1,8 +1,6 @@
-import Hero from "./components/Hero";
-import Demo from "./components/Demo";
-
 import "./App.css";
-
+import Hero from './Components/Hero.jsx';
+import Demo from './Components/Demo.jsx';
 const App = () => {
   return (
     <main>
